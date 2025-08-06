@@ -13,5 +13,5 @@ def shutdown():
     if _session is not None:
         _session.close()
         _session = None
-
-
+        
+    
